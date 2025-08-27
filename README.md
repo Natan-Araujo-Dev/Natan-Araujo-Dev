@@ -1,3 +1,58 @@
+# Olá! 👋 Eu sou Natan do Nascimento de Araujo
+
+**Desenvolvedor Web Fullstack** — React.js, .NET, C#, Tailwind, AWS.
+
+[![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
+[![Email](https://img.shields.io/badge/-natan.araujo.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:natan.araujo.dev@gmail.com)
+
+---
+
+## Sobre
+Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET. Trabalho atual: **Bazar Carioca** (Frontend + Backend). :contentReference[oaicite:1]{index=1}
+
+---
+
+## Tecnologias
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natan-Araujo-Dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Araujo-Dev&layout=compact&theme=dark)
+
+---
+
+## Projetos destacados
+- **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel (site): https://bazar-carioca.vercel.app/  
+  Frontend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Frontend  
+  Backend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Backend. :contentReference[oaicite:2]{index=2}
+
+- Outros repositórios: visite meu GitHub para ver mais. (https://github.com/Natan-Araujo-Dev)
+
+---
+
+## Formação & cursos (resumo)
+- Engenharia de Software — UNINTER (2024–2028). :contentReference[oaicite:3]{index=3}  
+- Programação de Jogos Digitais — FAETEC. :contentReference[oaicite:4]{index=4}  
+- Cursos: React (Udemy, jul/2025), Web API ASP.NET Core (.NET 8/9, jan/2025). :contentReference[oaicite:5]{index=5}
+
+---
+
+## Contato
+- 📫 natan.araujo.dev@gmail.com  
+- 📱 +55 21 97648-6646  
+- LinkedIn: https://www.linkedin.com/in/natan-araujo-dev/  
+- GitHub: https://github.com/Natan-Araujo-Dev. :contentReference[oaicite:6]{index=6}
+
 <!--
 **Natan-Araujo-Dev/Natan-Araujo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
