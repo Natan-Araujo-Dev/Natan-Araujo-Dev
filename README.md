@@ -1,5 +1,10 @@
-### Hi there 👋
+# Olá! 👋 Eu sou Natan
 
+- 🔭 Trabalho com **.NET, React e AWS**
+- 🌱 Estudando **Clean Architecture e DevOps**
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/seuusuario)
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
 <!--
 **Natan-Araujo-Dev/Natan-Araujo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
