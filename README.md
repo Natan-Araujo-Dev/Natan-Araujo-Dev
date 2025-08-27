@@ -1,6 +1,7 @@
 # Olá! 👋 Eu sou Natan do Nascimento de Araujo
 
-**Desenvolvedor Web Fullstack** — React.js, .NET, C#, Tailwind, AWS.
+**Desenvolvedor Web Fullstack** 
+— React.js | ASP.NET | .NET | C# | Typescript | AWS
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
@@ -42,8 +43,9 @@ Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com bo
 
 ## Formação & cursos (resumo)
 - Engenharia de Software — UNINTER (2024–2028).
-- Programação de Jogos Digitais — FAETEC.
-- Cursos: React (Udemy, jul/2025), Web API ASP.NET Core (.NET 8/9, jan/2025).
+- Programação de Jogos Digitais — FAETEC (2021-2023).
+- Curso React - Rocketseat (jul/2025)
+- Curso ASP.NET Core - Udemy (jan/2025).
 
 ---
 
