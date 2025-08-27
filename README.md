@@ -52,8 +52,8 @@ Estou trabalhando atualmente no **Bazar Carioca** (Frontend + Backend).
 ---
 
 ## Contato
-- 📫 natan.araujo.dev@gmail.com  
-- 📱 +55 21 97648-6646  
+- Email: natan.araujo.dev@gmail.com  
+- Celular: +55 21 97648-6646  
 - LinkedIn: https://www.linkedin.com/in/natan-araujo-dev/  
 - GitHub: https://github.com/Natan-Araujo-Dev.
 
