@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Natan do Nascimento de Araujo
 
 **Desenvolvedor Web Fullstack** 
-— React.js | ASP.NET | .NET | C# | Typescript | AWS
+— React.js |.NET | ASP.NET | C# | Typescript | AWS
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
@@ -10,13 +10,15 @@
 ---
 
 ## Sobre
-Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET. Estou trabalhando atualmente no **Bazar Carioca** (Frontend + Backend).
+Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET.
+Estou trabalhando atualmente no **Bazar Carioca** (Frontend + Backend).
 
 ---
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
