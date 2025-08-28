@@ -1,7 +1,7 @@
-# Seja bem-vindo ao meu Github! 👋 Meu nome é Natan Araujo
+# Seja bem-vindo ao meu GitHub! 👋 Meu nome é Natan Araujo
 
 **Desenvolvedor Web Fullstack** 
-— React.js |.NET | ASP.NET | C# | Typescript | AWS
+— React.js | .NET | ASP.NET | C# | Typescript | AWS
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
