@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
-[![Email](https://img.shields.io/badge/-natan.araujo.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:natan.araujo.dev@gmail.com)
+[![Email](https://img.shields.io/badge/-natan.araujo.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=natan.araujo.dev@gmail.com)
 
 ---
 
