@@ -1,4 +1,4 @@
-# Seja bem-vindo ao meu Github! 👋 Meu nome é Natan do Nascimento de Araujo
+# Seja bem-vindo ao meu Github! 👋 Meu nome é Natan Araujo
 
 **Desenvolvedor Web Fullstack** 
 — React.js |.NET | ASP.NET | C# | Typescript | AWS
