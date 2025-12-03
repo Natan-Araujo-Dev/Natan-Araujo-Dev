@@ -11,7 +11,6 @@
 
 ## Sobre
 Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET.
-Estou trabalhando atualmente no **Bazar Carioca** (Frontend + Backend).
 
 ---
 
