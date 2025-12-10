@@ -27,12 +27,6 @@ Desenvolvedor Fullstack desde 2021. Foco em entregar aplicações SPA com boas p
 
 ---
 
-## Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natan-Araujo-Dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Araujo-Dev&layout=compact&theme=dark)
-
----
-
 ## Projetos destacados
 - **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel (site): https://bazar-carioca.vercel.app/  
   Frontend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Frontend  
