@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu GitHub! 👋 Meu nome é Natan Araujo
 
-**Desenvolvedor Web Fullstack** 
+**Desenvolvedor Fullstack** 
 — React.js | .NET | ASP.NET | C# | Typescript | AWS
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
@@ -10,7 +10,7 @@
 ---
 
 ## Sobre
-Desenvolvedor Web Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET.
+Desenvolvedor Fullstack desde 2021. Foco em entregar aplicações SPA com boas práticas (SOLID, REST, DI) e APIs robustas em ASP.NET.
 
 ---
 
