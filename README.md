@@ -1,7 +1,7 @@
-# Seja bem-vindo ao meu GitHub! 👋 Meu nome é Natan Araujo
+# Seja bem-vindo ao meu GitHub! Meu nome é Natan Araujo.
 
 **Desenvolvedor Fullstack** 
-— React.js | .NET | ASP.NET | C# | Typescript | AWS
+— .NET | ASP.NET | React
 
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen)](https://bazar-carioca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-araujo-dev/)
@@ -28,7 +28,7 @@ Desenvolvedor Fullstack desde 2021. Foco em entregar aplicações SPA com boas p
 ---
 
 ## Projetos destacados
-- **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel (site): https://bazar-carioca.vercel.app/  
+- **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel
   Frontend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Frontend  
   Backend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Backend.
 
