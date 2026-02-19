@@ -28,7 +28,7 @@ Desenvolvedor Fullstack desde 2021. Foco em entregar aplicações SPA com boas p
 ---
 
 ## Projetos destacados
-- **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel
+- **Bazar Carioca** — SPA React + ASP.NET API, AWS S3/RDS/EC2, Vercel.
   Frontend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Frontend  
   Backend: https://github.com/Natan-Araujo-Dev/Bazar-Carioca-Backend.
 
